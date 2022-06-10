@@ -1,1 +1,4 @@
 https://www.anuragkapur.com/assets/blog/programming/node/PDF-Guide-Node-Andrew-Mead-v3.pdf
+https://nodejs.org/en/
+https://www.data-transitionnumerique.com/nodejs-guide-complet/
+http://sdz.tdct.org/sdz/des-applications-ultra-rapides-avec-node-js.html
