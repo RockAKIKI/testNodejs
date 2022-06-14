@@ -2,3 +2,4 @@ https://www.anuragkapur.com/assets/blog/programming/node/PDF-Guide-Node-Andrew-M
 https://nodejs.org/en/
 https://www.data-transitionnumerique.com/nodejs-guide-complet/
 http://sdz.tdct.org/sdz/des-applications-ultra-rapides-avec-node-js.html
+https://blog.bitsrc.io/23-insanely-useful-nodejs-libraries-you-should-know-in-2020-5a9b570d5416
