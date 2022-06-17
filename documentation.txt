@@ -4,3 +4,4 @@ https://www.data-transitionnumerique.com/nodejs-guide-complet/
 http://sdz.tdct.org/sdz/des-applications-ultra-rapides-avec-node-js.html
 https://blog.bitsrc.io/23-insanely-useful-nodejs-libraries-you-should-know-in-2020-5a9b570d5416
 https://nodejs.org/api/modules.html#requireextensions
+https://www.newline.co/fullstack-react?affiliate_id=934179955#packages //to buy this book contains !important updates for 2022
